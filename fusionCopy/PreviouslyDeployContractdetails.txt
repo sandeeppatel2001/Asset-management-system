@@ -1,0 +1,37 @@
+Starting migrations...
+======================
+> Network name:    'goerli'
+> Network id:      5
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_Integrity_migration.js
+========================
+
+   Deploying 'IntegrityContract'
+   -----------------------------
+   > transaction hash:    0xbd70b3a59dfe89472fefc949faa6184a021979dd0268f5b003a98ec1fbc73fad
+   > Blocks: 2            Seconds: 27
+   > contract address:    0xd78F74990fA3D2e7056a0685D5a21eB4e4b9bF12
+   > block number:        10452696
+   > block timestamp:     1706549412
+   > account:             0xeADfC25b8D495d45641D7404E264189f62e2C6C0
+   > balance:             0.979051639320589567
+   > gas used:            1424467 (0x15bc53)
+   > gas price:           2.50000003 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00356116754273401 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 10452697)
+   > confirmation number: 2 (block: 10452698)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.00356116754273401 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.00356116754273401 ETH
