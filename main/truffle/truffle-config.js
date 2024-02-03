@@ -43,8 +43,7 @@
 
 // require('dotenv').config();
 // const { MNEMONIC, PROJECT_ID } = process.env;
-const MNEMONIC =
-  "wise birth trap spread cotton sheriff inhale april quarter lamp margin toe";
+const MNEMONIC = "";
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
 module.exports = {
